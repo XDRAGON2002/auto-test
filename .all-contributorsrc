@@ -1,0 +1,24 @@
+{
+  "projectName": "auto-test",
+  "projectOwner": "XDRAGON2002",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "XDRAGON2002",
+      "name": "DRAGON2002",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81813720?v=4",
+      "profile": "https://github.com/XDRAGON2002",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}

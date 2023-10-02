@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "conventional-commits",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "XDRAGON2002",
+  "repo": "auto-test",
+  "name": "testbot",
+  "email": "test@gmail.com"
+}

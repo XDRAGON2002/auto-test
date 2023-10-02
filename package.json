@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "auto": "^11.0.4"
+  },
+  "scripts": {
+    "auto": "auto"
+  },
+  "license": "UNLICENSED"
+}

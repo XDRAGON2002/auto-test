@@ -7,7 +7,7 @@
     "auto": "^11.0.4"
   },
   "scripts": {
-    "auto": "../auto/packages/cli/dist/bin/auto.js"
+    "auto": "node ../auto/packages/cli/dist/bin/auto.js"
   },
   "license": "UNLICENSED"
 }

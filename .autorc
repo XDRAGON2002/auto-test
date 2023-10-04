@@ -1,7 +1,9 @@
 {
   "plugins": [
     "git-tag",
-    "all-contributors",
+    ["all-contributors", {
+      "commitMessage": "chore(release): Update contributors [skip ci]"
+    }],
     "conventional-commits",
     "first-time-contributor",
     "released"
